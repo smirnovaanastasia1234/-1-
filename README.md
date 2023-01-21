@@ -9,4 +9,5 @@
 Путь к набору данных:
 
 [Изображения для обучения](https://www.dropbox.com/s/v15jsb6775ucg85/train.zip?dl=0)
+
 [Изображения для тестирования](https://www.dropbox.com/s/ec60xlhpvz3mthi/test.zip?dl=0)
