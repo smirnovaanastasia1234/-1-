@@ -11,3 +11,5 @@
 [Изображения для обучения](https://www.dropbox.com/s/v15jsb6775ucg85/train.zip?dl=0)
 
 [Изображения для тестирования](https://www.dropbox.com/s/ec60xlhpvz3mthi/test.zip?dl=0)
+
+[Модель Colab Notebook](https://colab.research.google.com/drive/1jplB2iCRjyLxEZcR6e12wPuY20a8mWza?usp=sharing#scrollTo=Wsnp3qxl01e5)
